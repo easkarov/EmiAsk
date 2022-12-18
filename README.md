@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EmiAsk
-- 👀 I’m interested in Programming, Blockchain, Crypto, Backend
-- 🌱 I’m currently learning Java (Class(es) of class(es)), Docker, Kafka
-- 💞️ I’m looking to collaborate on TON, Yandex
+- 👀 I’m interested in Programming, Backend developing, Blockchain, Crypto
+- 🌱 I’m currently learning Flask, Java, Docker, Kafka
+- 💞️ I’m looking to collaborate as a Backend Developer
 - 📫 How to reach me:
   - TG: @emi_ask
   - Vk.com: @emilkask
