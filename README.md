@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiAsk
-- 👀 I’m interested in Programming, Backend developing, Blockchain, Crypto
-- 🌱 I’m currently learning Flask, Java, Docker, Kafka
+- 👀 I’m interested in Programming, Backend development
+- 🌱 I’m currently learning Flask, Docker, Kafka
 - 💞️ I’m looking to collaborate as a Backend Developer
 - 📫 How to reach me:
   - TG: @emi_ask
