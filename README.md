@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href=https://github.com/EmiAsk>EmiAsk</a></h1>
-<h3 align="center">I am passionate 18 y.o. backend developer with 3 years of coding 🧑‍💻 </h3>
+<h3 align="center">I am avid 18 y.o. backend developer with 3 years of coding 🧑‍💻 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emiask&label=Profile%20views&color=0e75b6&style=flat" alt="emiask" /> </p>
 
