@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emiask&show_icons=true&locale=en" alt="emiask" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emiask&" alt="emiask" /></p>
 
 
 
