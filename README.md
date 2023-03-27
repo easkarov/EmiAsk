@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @EmiAsk
+# 👋 Hi there, I’m [EmiAsk] (https://github.com/EmiAsk)
 - 👀 I’m interested in Programming, Backend development
 - 🌱 I’m currently learning Flask, Docker, Kafka
 - 💞️ I’m looking to collaborate as a Backend Developer
