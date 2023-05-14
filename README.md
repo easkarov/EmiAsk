@@ -14,6 +14,7 @@
 - 📫 How to reach me:
   - TG: @emi_ask
   - Vk.com: @emilkask
+  - Mail: askarov.emii@yandex.ru
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
