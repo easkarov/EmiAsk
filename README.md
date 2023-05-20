@@ -5,12 +5,9 @@
 
 
 - 👀 I’m interested in Programming, Backend and Blockchain development
-- 🌱 I’m currently learning **Spring, Flask, Docker**
-
-- 📄 Meet my CV [**(here)**</u>](https://drive.google.com/file/d/1g7zK7UMfiBp9HwEZQv4ouOFlq_0DIhUS/view?usp=sharing)
-
+- 🌱 I’m currently working with **Spring, Hibernate, PostgreSQL, Docker**
+- 📄 Meet my CV [**(here)**</u>](https://drive.google.com/file/d/1HgRNE8WLGi04Le3I7cuUZg7GxKSCkHQN/view?usp=share_link)
 - ⚡ Fun fact **I solve Rubik's cube for 10 seconds!**
-
 - 📫 How to reach me:
   - TG: @emi_ask
   - Vk.com: @emilkask
